@@ -3,7 +3,7 @@ const add = (a, b) => {
     return a + b;
   }
 
-  return NaN;
+  return NaN
 };
 
 module.exports = { add  };
